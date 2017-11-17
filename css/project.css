@@ -1,0 +1,299 @@
+#family1 .row div {
+    top: 70px;
+    left: 60px;
+    text-shadow:2px 2px 5px #8E8E8E;
+}
+
+#pac {
+    height: 110%;
+}
+
+
+#family2 .row2 div {
+    top: 60px;
+    left: 375px;
+    text-shadow:2px 2px 5px #6C6C6C;
+}
+
+#family3 .row3 div {
+    top: 70px;
+    left: 60px;
+    text-shadow:2px 2px 5px #6C6C6C;
+}
+
+#pac3 {
+    position:relative;
+    bottom: 120px;
+    left:470px;
+    height: 150%;
+
+}
+
+#family4 .row4 div {
+    top: 70px;
+    left: 60px;
+    text-shadow:2px 2px 5px #6C6C6C;
+}
+#pac4 {
+    position:relative;
+    bottom: 120px;
+    left:470px;
+    height: 150%;
+
+}
+
+#family5 .row5 div {
+    top: 70px;
+    left: 60px;
+    text-shadow:2px 2px 5px #6C6C6C;
+}
+
+#pac5 {
+    position:relative;
+    bottom: 550px;
+    left:470px;
+    height: 150%;
+
+}
+#family6 .row6 div {
+    top: 70px;
+    left: 60px;
+    text-shadow:2px 2px 5px #6C6C6C;
+}
+
+#pac6 {
+    position:relative;
+    bottom: 230px;
+    left:470px;
+    height: 150%;
+
+}
+
+#family7 .row7 div {
+    top: 70px;
+    left: 60px;
+    text-shadow:2px 2px 5px #6C6C6C;
+}
+#pac7 {
+    position:relative;
+    bottom: 165px;
+    left:470px;
+    height: 150%;
+
+}
+
+#choice1 {
+    background:#000 url(../assets/nanny.png)center top;
+    z-index=-2;
+    background-attachment: fixed;
+    background-position: top;
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+}
+
+#home {
+    padding-top: 60px;
+    padding-left: 100px;
+    color: lightseagreen;
+    text-shadow:2px 2px 5px #235;
+}
+
+
+#choice1 .row:first-child {
+    position: relative;
+    box-shadow: 0px 5px 20px black;
+    background-color: bisque;
+    color: black;
+    text-shadow:2px 2px 2px #8E8E8E;
+}
+
+#choice2 {
+    background:#000 url(../assets/nanny.png)center top;
+    z-index=-2;
+    background-attachment: fixed;
+    background-position: top;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+}
+
+#choice2 .row div :first-child {
+    position: relative;
+    box-shadow: 0px 5px 20px black;
+    background-color: bisque rgb(0,0,1);
+    color: lightseagreen;
+    text-shadow:2px 2px 2px #235;
+    height: 250px;
+}
+#choice4 {
+    background:#000 url(../assets/5.png)center top;
+    z-index=-2;
+    background-attachment: fixed;
+    background-position: top;
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+}
+#choice4 .row div :first-child {
+    position: relative;
+    box-shadow: 0px 5px 20px black;
+    background-color: bisque rgb(0,0,1);
+    color: coral;
+    text-shadow:2px 2px 2px #235;
+    height: 200px;
+}
+
+
+#choice5 {
+    background:#000 url(../assets/6.png)center top;
+    z-index=-2;
+    background-attachment: fixed;
+    background-position: top;
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+}
+
+#choice5 .row div :first-child {
+    position: relative;
+    box-shadow: 0px 5px 20px black;
+    background-color: bisque rgb(0,0,1);
+    color: coral;
+    text-shadow:2px 2px 2px #235;
+    height: 200px;
+}
+
+#choice6 {
+    background:#000 url(../assets/institute.png)center top;
+    z-index=-2;
+    background-attachment: fixed;
+    background-position: top;
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+}
+
+#institute {
+    padding-top: 60px;
+    padding-left: 100px;
+    color: darkorange;
+    text-shadow:2px 2px 5px #235;
+}
+
+
+#choice6 .row:first-child {
+    position: relative;
+    box-shadow: 0px 5px 20px black;
+    background-color: bisque;
+    color: black;
+    text-shadow:2px 2px 2px #8E8E8E;
+}
+
+#choice7 {
+    background:#000 url(../assets/institute.png)center top;
+    z-index=-2;
+    background-attachment: fixed;
+    background-position: top;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+}
+
+#choice7 .row div :first-child {
+    position: relative;
+    box-shadow: 0px 5px 20px black;
+    background-color: bisque rgb(0,0,1);
+    color:darkorange;
+    text-shadow:2px 2px 2px #235;
+    height: 200px;
+}
+#choice8 {
+    background:#000 url(../assets/11.png)center top;
+    z-index=-2;
+    background-attachment: fixed;
+    background-position: top;
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+}
+#choice8 .row div :first-child {
+    position: relative;
+    box-shadow: 0px 5px 20px black;
+    background-color: bisque rgb(0,0,1);
+    color:darkorange;
+    text-shadow:2px 2px 2px #235;
+    height: 200px;
+}
+#choice9 {
+    background:#000 url(../assets/11-2.png)center top;
+    z-index=-2;
+    background-attachment: fixed;
+    background-position: top;
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+}
+#choice9 .row div :first-child {
+    position: relative;
+    box-shadow: 0px 5px 20px black;
+    background-color: bisque rgb(0,0,1);
+    color:darkorange;
+    text-shadow:2px 2px 2px #235;
+    height: 200px;
+}
+
+#choice10 {
+    background:#000 url(../assets/11-2.png)center top;
+    z-index=-2;
+    background-attachment: fixed;
+    background-position: top;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+}
+#choice10 .row div :first-child {
+    position: relative;
+    box-shadow: 0px 5px 20px black;
+    background-color: bisque rgb(0,0,1);
+    color:darkorange;
+    text-shadow:2px 2px 2px #235;
+    height: 100px;
+}
+#choice11 {
+    background:#000 url(../assets/institute2.png)center top;
+    z-index=-2;
+    background-attachment: fixed;
+    background-position: top;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+}
+#choice11 .row div :first-child {
+    position: relative;
+    box-shadow: 0px 5px 20px black;
+    background-color: bisque rgb(0,0,1);
+    color:mediumseagreen;
+    text-shadow:2px 2px 2px #235;
+    height: 250px;
+}
+#choice12 {
+    background:#000 url(../assets/institute2.png)center top;
+    z-index=-2;
+    background-attachment: fixed;
+    background-position: top;
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+}
+#choice12 .row div :first-child {
+    position: relative;
+    box-shadow: 0px 5px 20px black;
+    background-color: bisque rgb(0,0,1);
+    color:mediumseagreen;
+    text-shadow:2px 2px 2px #235;
+    height: 200px;
+}
+#footer{
+    
+}
